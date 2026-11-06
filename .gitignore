@@ -1,0 +1,9 @@
+# node (app/)
+app/node_modules/
+app/dist/
+app/.env
+app/packages/
+!app/.env.example
+
+# Rust
+target/
